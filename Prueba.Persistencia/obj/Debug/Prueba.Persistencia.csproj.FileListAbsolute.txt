@@ -1,0 +1,11 @@
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\Prueba.Persistencia.dll.config
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\Prueba.Persistencia.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\Prueba.Persistencia.pdb
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\EntityFramework.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\EntityFramework.xml
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.csproj.CoreCompileInputs.cache
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.csproj.CopyComplete
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.pdb
