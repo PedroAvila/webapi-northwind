@@ -12,6 +12,7 @@ namespace Prueba.WebApi
         public AutomapperProfile()
         {
             CreateMap<CategoryExtend, CategoryDto>().ReverseMap();
+            CreateMap<Category, CategoryDto>().ReverseMap();
         }
     }
 }

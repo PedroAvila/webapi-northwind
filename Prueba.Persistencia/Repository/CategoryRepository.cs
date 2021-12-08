@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,7 @@ namespace Prueba.Persistencia
 {
     public class CategoryRepository : ICategoryRepository
     {
-        public List<CategoryExtend> GetAll()
+        public async Task<List<CategoryExtend>> GetAll()
         {
             using (var context = new Northwind())
             {
@@ -20,7 +21,16 @@ namespace Prueba.Persistencia
                                  Description = c.Description
                              };
 
-                return result.ToList();
+                return await result.ToListAsync();
+            }
+        }
+
+        public async Task<Category> Single(int id)
+        {
+            using (var context = new Northwind())
+            {
+                //return await context.Categories.FindAsync(id);
+                return await context.Categories.FirstOrDefaultAsync(x => x.CategoryID == id);
             }
         }
     }

@@ -8,6 +8,7 @@ namespace Prueba.Persistencia
 {
     public interface ICategoryRepository
     {
-        List<CategoryExtend> GetAll();
+        Task<List<CategoryExtend>> GetAll();
+        Task<Category> Single(int id);
     }
 }

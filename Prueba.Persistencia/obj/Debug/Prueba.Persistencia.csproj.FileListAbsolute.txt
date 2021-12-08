@@ -9,3 +9,10 @@ C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.cspr
 C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.csproj.CopyComplete
 C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.dll
 C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.pdb
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Csharp\WebApiNorthwind\Prueba.Persistencia\obj\Debug\Prueba.Persistencia.csproj.AssemblyReference.cache
