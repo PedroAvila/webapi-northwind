@@ -17,6 +17,7 @@ namespace Prueba.WebApi
 
             //Acá registraramos más tipos (interfaz-implementación)
             container.RegisterType<ICategoryRepository, CategoryRepository>(new HierarchicalLifetimeManager());
+            container.RegisterType<ICustomerRepository, CustomerRepository>(new HierarchicalLifetimeManager());
             config.DependencyResolver = new UnityResolver(container);
 
             // Rutas de API web

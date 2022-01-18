@@ -494,5 +494,46 @@
             <response code="404">NotFound. No se ha encontrado el objeto solicitado</response>
             <returns></returns>
         </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.PaginaActual">
+            <summary>
+            Página devuelta por la consulta actual
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.RegistrosPorPagina">
+            <summary>
+            Número de registros de la página devuelta
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.TotalRegistros">
+            <summary>
+            Total de registros de consulta
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.TotalPaginas">
+            <summary>
+            Total de páginas de la consuta
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.BusquedaActual">
+            <summary>
+            Texto de búsqueda de la consulta actual
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.OrdenActual">
+            <summary>
+            Columna por la que esta ordenada la consulta actual
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.TipoOrdenActual">
+            <summary>
+            Tipo de ordenación de la consulta actual: ASC o DESC 
+            </summary>
+        </member>
+        <member name="P:Prueba.WebApi.PaginadorGenerico`1.Resultado">
+            <summary>
+            Resultado devuelto por la consulta a la tabla Customers
+            en función de todos los parámetros  anteriores.
+            </summary>
+        </member>
     </members>
 </doc>

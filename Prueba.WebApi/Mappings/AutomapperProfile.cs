@@ -13,6 +13,7 @@ namespace Prueba.WebApi
         {
             CreateMap<CategoryExtend, CategoryDto>().ReverseMap();
             CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Customer, CustomerDto>().ReverseMap();
         }
     }
 }
