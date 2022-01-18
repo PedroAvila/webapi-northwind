@@ -10,7 +10,7 @@ namespace Prueba.WebApi.Controllers
     public class CustomerController : ApiController
     {
         private readonly ICustomerRepository _customerRepository;
-
+        
         public CustomerController(ICustomerRepository customerRepository)
         {
             _customerRepository = customerRepository;
